@@ -1,6 +1,6 @@
 # Datasets
 
-This repository proposes a listing a compiled datasets to be used in different demos and integrations with Astra.
+This repository proposes a listing of compiled datasets to be used in different demos and integrations with Astra.
 
 ## Referentials Data
 
