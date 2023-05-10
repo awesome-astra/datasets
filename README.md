@@ -14,7 +14,7 @@ be used over and over, whenever suited for the purpose of the demo/tutorial.
 If you want to contribute:
 
 - please respect the directory structure;
-- take the time to fill the "dataset card" (`README` in the dataset directory);
+- take the time to fill the "dataset card" (`README.md` in the dataset directory);
 - categorize and describe your contribution in the listing below;
 - do not commit large files, host them elsewhere and place a (public) URL instead.
 
@@ -30,4 +30,4 @@ _Big datasets in tabular format mainly for use with Cassandra (through `dsbulk` 
 
 _Small, simple general-purpose datasets. Useful for reference tables, listings, collections and the like._
 
-[**Language codes**](dataset-archive/language-codes/README.md): ISO 639.2 two-letter language codes table. _CSV, 2.7 KB_.
+[**Language codes**](dataset-archive/language-codes/): ISO 639.2 two-letter language codes table. _CSV, 2.7 KB_.

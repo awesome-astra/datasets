@@ -9,19 +9,13 @@ the ISO 639.2 standard ("Codes for the Representation of Names of Languages").
 
 #### Specs
 
-_Header_: no
-
-_Format_: CSV
-
-_Size_: 2.7 KB
-
-_Records_: 184
-
-_License_: GPL
-
-_Locally hosted_: yes
-
-_Source_: see References
+- _Header_: no
+- _Format_: CSV
+- _Size_: 2.7 KB
+- _Records_: 184
+- _License_: GPL
+- _Locally hosted_: yes
+- _Source_: see References
 
 #### Sample records
 
