@@ -24,7 +24,13 @@ If you want to contribute:
 
 _Big datasets in tabular format mainly for use with Cassandra (through `dsbulk` and similar)._
 
-### 
+[**Uber Eats synthetic data for ML**](dataset-archive/uber-ml-synthetic-data/): Synthetic data modeled after Uber Eats' feature-based ML use case. _Multiple CSVs, 17 GB_.
+
+### Structured mid-size data
+
+_Mid-sized data with a structure going beyond flat tables (e.g. JSON with nested fields, relations, etc)_
+
+**None yet**
 
 ### Referential data
 
