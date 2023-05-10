@@ -1,12 +1,33 @@
 # Datasets
 
-This repository proposes a listing of compiled datasets to be used in different demos and integrations with Astra.
+A curated collection of datasets, mostly for repeated usage in demos and integrations with Astra.
 
-## Referentials Data
+![Gliophorus psittacinus (formerly Hygrocybe psittacina)](images/hygrocybe.jpg)
 
-Rather small those data can be used for reference table, listing, collections....
+### Usage
 
+We would like to have few shared dataset fit for various purposes (demos & so on).
 
-| Files | Format | Size | Description | License
-|:--- |:---: |:---: |:----|:-----
-|**[language-codes.csv](/referentials/small/language-codes.csv)** |`CSV` | `4kb` | Codes for the Representation of Names of Languages ([ISO 639.2](https://www.loc.gov/standards/iso639-2/langhome.html))| GPL |
+Quality over quantity: remember one of our goals is for the same few datasets to
+be used over and over, whenever suited for the purpose of the demo/tutorial.
+
+If you want to contribute:
+
+- please respect the directory structure;
+- take the time to fill the "dataset card" (`README` in the dataset directory);
+- categorize and describe your contribution in the listing below;
+- do not commit large files, host them elsewhere and place a (public) URL instead.
+
+## The sets
+
+### Big tabular data
+
+_Big datasets in tabular format mainly for use with Cassandra (through `dsbulk` and similar)._
+
+### 
+
+### Referential data
+
+_Small, simple general-purpose datasets. Useful for reference tables, listings, collections and the like._
+
+[**Language codes**](dataset-archive/language-codes/README.md): ISO 639.2 two-letter language codes table. _CSV, 2.7 KB_.
