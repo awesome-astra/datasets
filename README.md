@@ -24,7 +24,7 @@ If you want to contribute:
 
 _Data including vector embeddings for various usage._
 
-[**Cifar10 images with SqueezeNet 1.1 embeddings**](dataset-archive/cifar10-images-squeezenet): 5000 images from CIFAR10 with their vector embeddings and a few metadata. _Multiple JSON and CSV, 106 MB compressed_.
+[**Cifar10 images with SqueezeNet 1.1 embeddings**](dataset-archive/cifar10-images-squeezenet/README.md): 5000 images from CIFAR10 with their vector embeddings and a few metadata. _Multiple JSON and CSV, 106 MB compressed_.
 
 ### Big tabular data
 

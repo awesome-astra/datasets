@@ -11,7 +11,7 @@ The data is ready for ingestion with dsbulk (starting from v1.11 as there are
 vector columns). There is a without-vector counterpart of all files, which are
 cut at different row counts.
 
-Check a [notebook]() detailing how the data is generated: in particular,
+Check a [notebook](dataset_generation.ipynb) detailing how the data is generated: in particular,
 
 - usage of SqueezeNet for the embeddings;
 - additional usage of a Huggingface `pipeline` for image classification, to add finer metadata;
@@ -24,10 +24,8 @@ Check a [notebook]() detailing how the data is generated: in particular,
 - _Size_: 106 MB (compressed)
 - _Records_: 5K
 - _License_: the website implies freedom to further use
-- _Locally hosted_: no, [download Link](https://drive.google.com/uc?id=1rEbAwyr0_Ki7qTdhpUI6WE6z8F7tpX9M&export=download).
+- _Locally hosted_: no, [download link](https://drive.google.com/uc?id=1rEbAwyr0_Ki7qTdhpUI6WE6z8F7tpX9M&export=download).
 - _Source_: from the Cifar10 site, plus our own manipulation.
-
-https://drive.google.com/file/d/1rEbAwyr0_Ki7qTdhpUI6WE6z8F7tpX9M&export=download
 
 #### Load to Cassandra / Astra DB
 
