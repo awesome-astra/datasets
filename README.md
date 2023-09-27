@@ -20,6 +20,12 @@ If you want to contribute:
 
 ## The sets
 
+### Vector data
+
+_Data including vector embeddings for various usage._
+
+[**Cifar10 images with SqueezeNet 1.1 embeddings**](dataset-archive/cifar10-images-squeezenet): 5000 images from CIFAR10 with their vector embeddings and a few metadata. _Multiple JSON and CSV, 106 MB compressed_.
+
 ### Big tabular data
 
 _Big datasets in tabular format mainly for use with Cassandra (through `dsbulk` and similar)._
