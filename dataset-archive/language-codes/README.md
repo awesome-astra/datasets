@@ -14,7 +14,7 @@ the ISO 639.2 standard ("Codes for the Representation of Names of Languages").
 - _Size_: 2.7 KB
 - _Records_: 184
 - _License_: GPL
-- _Locally hosted_: yes
+- _Locally hosted_: [yes](language-codes.csv)
 - _Source_: see References
 
 #### Sample records

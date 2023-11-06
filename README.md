@@ -43,3 +43,7 @@ _Mid-sized data with a structure going beyond flat tables (e.g. JSON with nested
 _Small, simple general-purpose datasets. Useful for reference tables, listings, collections and the like._
 
 [**Language codes**](dataset-archive/language-codes/): ISO 639.2 two-letter language codes table. _CSV, 2.7 KB_.
+
+## Demo/example resources
+
+See [the dedicated page](demo-resources/README.md) for more.
